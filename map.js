@@ -1,3 +1,6 @@
+<script type="text/javascript" src="https://www.gstatic.com/charts/loader.js"></script>
+       <div id="regions_div" style="width: 900px; height: 500px;"></div>
+
 google.charts.load('current', {
   'packages':['geochart'],
   // Note: you will need to get a mapsApiKey for your project.
